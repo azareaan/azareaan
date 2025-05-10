@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ali Zareaan
 
-## About Me
+## 👨‍💻 About Me
 Front-end developer crafting engaging UIs and exploring AI-driven solutions. Always learning, always building.
 
 ## 🔭 Current Focus
