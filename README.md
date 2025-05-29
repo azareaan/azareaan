@@ -13,6 +13,7 @@ Currently focused on deepening my skills in React.js and Next.js, as well as exp
 - TypeScript
 - React JS
 - Next.js
+- Redux
 - Node.js
 - Python
 - AI / RAG
