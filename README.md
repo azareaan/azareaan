@@ -1,22 +1,24 @@
 # 👋 Hello, I'm Ali Zareaan
 
 ## 👨‍💻 About Me
-Front-end developer crafting engaging UIs and exploring AI-driven solutions. Always learning, always building.
+Frontend Engineer building engaging UIs and exploring AI-driven solutions. Always learning, always building.
 
 ## 🔭 Current Focus
-Currently focused on deepening my skills in React.js and Next.js, as well as exploring AI solutions—specifically Retrieval-Augmented Generation (RAG)
+Currently focused on growing my software engineering skills and exploring AI-driven solutions.
 
 ## 💡 Skills
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React JS
 - Next.js
+- TypeScript
+- Frontend Development
 - Redux
-- Node.js
+- Progressive Web Applications (PWAs)
+- HTML
+- CSS / SASS
+- AI
+- Docker
+- Gitlab
+- DevOps
 - Python
-- AI / RAG
 - C++
 
 
